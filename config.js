@@ -1,0 +1,1 @@
+exports.Shooter = "Стрелок";
