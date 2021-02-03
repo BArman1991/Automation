@@ -6,7 +6,7 @@ module.exports = {
         browser.end()
     },
 
-
+    '@tags':['google'],
     "Click test": function(Browser){
         const name = config.Shooter
         Browser.url("https://kinokrad.co");
